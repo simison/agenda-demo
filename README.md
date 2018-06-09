@@ -1,4 +1,4 @@
 ```
 npm i
-DEBUG="agenda:*" node .
+npm start
 ```
